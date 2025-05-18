@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destroyable
+  - EnemyBack
+  - Enemy
+  - Cat
+  - Sword
+  - Spear
+  - FlyingSpear
+  - Bridge1
+  - Bridge2
+  - Bridge1Collider
+  - Bridge2Collider
+  - BridgeArea
+  - Cat2
+  - CatNormal
+  - WeaponBoxSword
+  - WeaponBoxSpear
+  - WeaponBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Spear
+  - Player
+  - Bridge
+  - BridgeArea
+  - BridgeWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
